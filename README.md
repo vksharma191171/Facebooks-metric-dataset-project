@@ -69,9 +69,11 @@ so that it is beneficial to company's future product plan and overall developeme
  
 
  
- 
- *SOURCE*
- 
- https://archive.ics.uci.edu/ml/datasets/Facebook+metrics
-
+*SOURCE/CITATION*
+1.  [https://archive.ics.uci.edu/ml/datasets/Facebook+metrics]
 (Moro et al., 2016) Moro, S., Rita, P., & Vala, B. (2016). Predicting social media performance metrics and evaluation of the impact on brand building: A data mining approach. Journal of Business Research, 69(9), 3341-3351.
+2. James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani. An Introduction to Statistical Learning: with Applications in R. Springer: 2017.
+3. Harrison, D. and D. L. Rubinfeld (1978). Hedonic prices and the demand for clean air. Journal of Environmental Economics and Management, 5, 81-102.
+4. introduction to Linear Regression Analysis by Douglas C Montgomery, Elizabeth APeck, G. Geoffrey Vining.
+ 
+ 
